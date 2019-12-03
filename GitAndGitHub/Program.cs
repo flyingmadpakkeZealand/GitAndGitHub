@@ -12,6 +12,7 @@ namespace GitAndGitHub
         {
             //New stuff.
             Console.WriteLine("Dette er udskrivning lavet lokalt");
+            //Comment from GitHub.
             Console.ReadLine();
             //More new stuff.
         }
