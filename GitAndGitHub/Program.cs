@@ -10,6 +10,8 @@ namespace GitAndGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dette er udskrivning lavet lokalt");
+            Console.ReadLine();
         }
     }
 }
