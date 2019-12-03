@@ -16,7 +16,7 @@ namespace GitAndGitHub
             //Fetch.
             Console.ReadLine();
             //More new stuff.
-            Console.WriteLine("lokal ændring fra Sebastian");
+            Console.WriteLine("Din lokale ændring er blevet overskrevet");
         }
     }
 }
